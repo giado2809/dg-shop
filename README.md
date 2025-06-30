@@ -87,4 +87,33 @@ Ghi Chú
 - Nếu bạn thấy dự án này xịn xò, nhớ ⭐️ và chia sẻ!
 
 Ảnh demo giao diện
-![alt text](<Screenshot 2025-06-30 233522.png>)
+
+++ Login
+![login](screenshots/login.png)
+
+++ Admin
+![Admin](screenshots/dashboard.png)
+![Admin](screenshots/admin-list-product.png)
+![Admin](screenshots/admin-edit-product.png)
+
+++ Home
+![Home](screenshots/shop-home.png)
+![Home](screenshots/shop-home-product.png)
+
+++ Shop 
+![Shop](screenshots/shop.png)
+
+++ Detail
+![Detail](screenshots/detail.png)
+
+++ Cart
+![Cart](screenshots/cart.png)
+
+++ Checkout
+![Checkout](screenshots/checkout.png)
+
+++ Order
+![Order](screenshots/list-order.png)
+
+++ Comment
+![Comment](screenshots/comment.png)
